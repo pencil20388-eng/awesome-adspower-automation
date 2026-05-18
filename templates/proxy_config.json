@@ -1,0 +1,8 @@
+{
+  "proxy_soft": "other",
+  "proxy_type": "http",
+  "proxy_host": "YOUR_PROXY_HOST",
+  "proxy_port": "YOUR_PROXY_PORT",
+  "proxy_user": "YOUR_USERNAME",
+  "proxy_password": "YOUR_PASSWORD"
+}
