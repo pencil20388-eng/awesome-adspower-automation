@@ -1,0 +1,12 @@
+{
+  "automatic_timezone": "1",
+  "language": ["en-US", "en"],
+  "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+  "flash": "block",
+  "scan_port_type": "1",
+  "webrtc": "disabled",
+  "fonts": [],
+  "canvas": "1",
+  "webgl_image": "1",
+  "audio": "1"
+}
