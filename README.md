@@ -1,3 +1,4 @@
+[English](./README.md) | [中文文档](./README_CN.md)
 # 🚀 Awesome AdsPower Automation
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
@@ -16,7 +17,7 @@ Whether you manage 10 accounts or 10,000, this repo gives you **production-ready
 |--------|-------------|------------|
 | [`/scripts/batch-create-profiles`](./scripts/batch-create-profiles) | Create hundreds of browser profiles in one command | ⭐ Beginner |
 | [`/scripts/auto-open-close`](./scripts/auto-open-close) | Open, perform tasks, and close browsers automatically | ⭐ Beginner |
-| [`/scripts/proxy-bindingr`](./scripts/proxy-binding) | Batch bind/update proxies across all profiles | ⭐⭐ Intermediate |
+| [`/scripts/proxy-binding`](./scripts/proxy-binding) | Batch bind/update proxies across all profiles | ⭐⭐ Intermediate |
 | [`/scripts/cookie-manager`](./scripts/cookie-manager) | Import/export cookies for account warmup | ⭐⭐ Intermediate |
 | [`/scripts/fingerprint-checker`](./scripts/fingerprint-checker) | Auto-open profiles and verify fingerprint on BrowserScan | ⭐⭐ Intermediate |
 | [`/templates/`](./templates) | Reusable config templates (proxy, fingerprint, groups) | ⭐ Beginner |
