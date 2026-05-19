@@ -5,7 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
-> A curated collection of ready-to-use scripts, templates, and guides for [AdsPower](https://www.adspower.com/) antidetect browser automation. Copy, paste, run.
+> A curated collection of ready-to-use scripts, templates, and guides for [AdsPower](https://www.adspower.net/) antidetect browser automation. Copy, paste, run.
 
 Whether you manage 10 accounts or 10,000, this repo gives you **production-ready code** that works out of the box with AdsPower's Local API.
 
@@ -27,7 +27,7 @@ Whether you manage 10 accounts or 10,000, this repo gives you **production-ready
 
 ### Prerequisites
 
-- [AdsPower](https://www.adspower.com/download) installed and running (paid plan with API access)
+- [AdsPower](https://www.adspower.net/download) installed and running (paid plan with API access)
 - [Python 3.8+](https://www.python.org/downloads/) installed
 - Your API Key (AdsPower → Automation → API → Generate)
 
@@ -144,10 +144,10 @@ python scripts/fingerprint-checker/check_all.py --group "My Campaign"
 
 ## 🔗 Official Resources
 
-- 🌐 [AdsPower Official Website](https://www.adspower.com/)
-- 📖 [Local API Documentation](https://localapi-doc-en.adspower.com/)
-- 💬 [Help Center](https://help.adspower.com/)
-- 📝 [AdsPower Blog](https://www.adspower.com/blog)
+- 🌐 [AdsPower Official Website](https://www.adspower.net/)
+- 📖 [Local API Documentation](https://localapi-doc-en.adspower.net/)
+- 💬 [Help Center](https://help.adspower.net/)
+- 📝 [AdsPower Blog](https://www.adspower.net/blog)
 
 ## 🤝 Contributing
 
