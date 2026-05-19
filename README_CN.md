@@ -1,4 +1,4 @@
-# 🚀 Awesome AdsPower Automation
+# 🚀 AdsPower 指纹浏览器自动化脚本合集
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
