@@ -6,7 +6,7 @@
 
 [English](./README.md) | **中文**
 
-> 一套开箱即用的 [AdsPower](https://www.adspower.com/) 指纹浏览器自动化脚本、模板和教程。复制，粘贴，运行。
+> 一套开箱即用的 [AdsPower](https://www.adspower.net/) 指纹浏览器自动化脚本、模板和教程。复制，粘贴，运行。
 
 不管你管 10 个账号还是 10000 个，这个仓库给你的都是**拿来就能跑的代码**，直接对接 AdsPower Local API。
 
@@ -28,7 +28,7 @@
 
 ### 前置条件
 
-- 已安装并运行 [AdsPower](https://www.adspower.com/download)（需付费版，有 API 权限）
+- 已安装并运行 [AdsPower](https://www.adspower.net/download)（需付费版，有 API 权限）
 - 已安装 [Python 3.8+](https://www.python.org/downloads/)
 - 拿到你的 API Key（AdsPower → 自动化 → API → 生成）
 
@@ -145,10 +145,10 @@ python scripts/fingerprint-checker/check_all.py --group "我的活动"
 
 ## 🔗 官方资源
 
-- 🌐 [AdsPower 官网](https://www.adspower.com/)
-- 📖 [Local API 文档](https://localapi-doc-en.adspower.com/)
-- 💬 [帮助中心](https://help.adspower.com/)
-- 📝 [AdsPower 博客](https://www.adspower.com/blog)
+- 🌐 [AdsPower 官网](https://www.adspower.net/)
+- 📖 [Local API 文档](https://localapi-doc-en.adspower.net/)
+- 💬 [帮助中心](https://help.adspower.net/)
+- 📝 [AdsPower 博客](https://www.adspower.net/blog)
 
 ## 🤝 参与贡献
 
